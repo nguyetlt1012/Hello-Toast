@@ -40,7 +40,7 @@
         android:gravity="center"
         android:text="0"
         android:textAlignment="center"
-        android:textSize="160sp"
+        android:textSize="120sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/button_count"
         app:layout_constraintEnd_toEndOf="parent"
